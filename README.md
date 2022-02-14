@@ -70,5 +70,3 @@ python rank_lgb_model.py
 
 Finally, by running `trans_file.py` to aggregate multiple results, you can  get final submissions we have submitted in path `./submission`.
 
-And 
-
