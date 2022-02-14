@@ -1,4 +1,5 @@
 # WSDM 2022 CUP - Cross-Market Recommendation
+Our team ranks the second place on the final leaderboard with an excellent performance very close to the first place.
 ## Requirements:
 The requirements of experiment environment are listed in requirements.txt.
 
