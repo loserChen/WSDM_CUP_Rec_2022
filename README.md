@@ -42,7 +42,7 @@ After training your model, the scripts prints the directories of model and index
     --test: ./merge/t1/LightGCN_with_w2v_test.tsv
     Experiment finished successfully!
 
-After getting corresponding result files, result files will be input into other tree-like model as ranking features.
+After getting corresponding result files, result files will be input into other tree-like models as ranking features.
 
 ## Train Tree models
 
