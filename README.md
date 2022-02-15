@@ -44,7 +44,7 @@ After training your model, the scripts prints the directories of model and index
 
 After getting corresponding result files, result files will be input into other tree-like model as ranking features.
 
-## Train Tree model
+## Train Tree models
 
 You can run scripts below:
 
