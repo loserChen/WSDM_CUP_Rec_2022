@@ -1,6 +1,6 @@
 # WSDM 2022 CUP - Cross-Market Recommendation
 Our team ranks the second place on the final leaderboard with an excellent performance very close to the first place.
-The relevant solution report can be found in `https://www.wsdm-conference.org/2022/wp-content/uploads/2022/02/Task3_WSDMCoggle_2nd.pdf`
+The relevant solution report can be found in [here](https://www.wsdm-conference.org/2022/wp-content/uploads/2022/02/Task3_WSDMCoggle_2nd.pdf).
 ## Requirements:
 The requirements of experiment environment are listed in requirements.txt.
 
